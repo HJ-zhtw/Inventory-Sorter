@@ -1,0 +1,15 @@
+{
+  "key.categories.inventorysorter": "Inventory Sorting",
+  "key.inventorysorter.sort": "排序物品欄",
+  "key.inventorysorter.config.category.display": "顯示",
+  "key.inventorysorter.config.category.logic": "邏輯",
+  "key.inventorysorter.config.category.activation": "啟用",
+  "key.inventorysorter.config.displaysort": "於物品欄顯示排序按鈕",
+  "key.inventorysorter.config.middleclick": "按下中鍵時排序",
+  "key.inventorysorter.config.doubleclick": "點擊物品欄兩下時排序",
+  "key.inventorysorter.config.seperatebtn": "永遠於玩家物品欄顯示按鈕",
+  "key.inventorysorter.config.sortplayer": "排序時一併排序玩家物品欄",
+  "key.inventorysorter.config.sorttype": "排序方法",
+  "key.inventorysorter.config.displaytooltip": "顯示排序按鈕工具提示",
+  "key.inventorysorter.config.sortmousehighlighted": "Sorting sorts mouse hovered inv"
+}
